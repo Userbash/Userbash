@@ -1,18 +1,18 @@
 ![Header](assets/header.png)
 
-Linux SysAdmin & DevOps enthusiast. Специализируюсь на автоматизации процессов, мониторинге систем и развертывании Docker-инфраструктуры.
+Linux SysAdmin & DevOps enthusiast. Specializing in process automation, system monitoring, and Docker infrastructure deployment.
 
-Занимаюсь настройкой сетевых прокси, управлением серверами на базе Fedora Linux и написанием сценариев для оптимизации рабочих процессов.
+Experienced in configuring network proxies, managing Fedora Linux servers, and writing scripts to optimize workflows.
 
 <details>
 <summary>⚡ Skills:</summary>
 <br/>
 
-- 𝖠𝗇𝗌𝗂𝖻𝗅𝖾
-- 𝖣𝗈𝖼𝗄𝖾𝗋
-- 𝖯𝗒𝗍𝗁𝗈𝗇
-- 𝖲𝗁𝖾𝗅𝗅 𝖲𝖼𝗋𝗂𝗉𝗍𝗂𝗇𝗀
-- 𝖥𝖾𝖽𝗈𝗋𝖺 𝖫𝗂𝗇𝗎𝗑
-- 𝖭𝖾𝗍𝗐𝗈𝗋𝗄𝗂𝗇𝗀 & 𝖯𝗋𝗈𝗑𝗂𝖾𝗌
-- 𝖠𝗎𝗍𝗈𝗆𝖺𝗍𝗂𝗈𝗇 & 𝬥𝗈𝗇𝗂𝗍𝗈𝗋𝗂𝗇𝗀
+- Ansible
+- Docker
+- Python
+- Shell Scripting
+- Fedora Linux
+- Networking & Proxies
+- Automation & Monitoring
 </details>
