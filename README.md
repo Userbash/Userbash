@@ -1,7 +1,6 @@
 ![Header](assets/header.png)
 
-# IT Support Engineer | Automation & Monitoring
-
+# IT Support Engineer | Automation
 Technical Support Engineer with 8+ years of experience in internal IT support.
 
 My commercial background includes user support, Windows workstations, software and peripheral devices, Active Directory, access management, DNS/DHCP, VPN, Wi‑Fi and network troubleshooting.
