@@ -1,39 +1,40 @@
-![Header](assets/header.png)
-
 # IT Support Engineer | Automation
-Technical Support Engineer with 8+ years of experience in internal IT support.
 
-My commercial background includes user support, Windows workstations, software and peripheral devices, Active Directory, access management, DNS/DHCP, VPN, Wi‑Fi and network troubleshooting.
+**8+ years in IT support.** Windows, Active Directory, networking → now building skills in Linux, containers, monitoring and automation.
 
-Alongside my support experience, I build hands-on projects to develop practical skills in Linux, monitoring, containers and automation.
+---
 
-## Focus Areas
+## 🧰 Stack
 
-- Technical Support: Windows, Active Directory, DNS/DHCP, VPN, Wi‑Fi
-- Linux fundamentals and Bash scripting
-- Monitoring: Zabbix and Grafana
-- Containers: Docker and rootless Podman
-- Automation: Bash, PowerShell, basic Python
-- Networking: TCP/IP, DNS, reverse proxies
-- AI-assisted development: Codex CLI, Claude, Cursor
+**Support:** Windows · Active Directory · DNS/DHCP · VPN · Wi-Fi
+**Linux:** Bash scripting
+**Containers:** Docker · rootless Podman
+**Monitoring:** Zabbix · Grafana
+**Automation:** Bash · PowerShell · Python (basic)
+**Networking:** TCP/IP · DNS · reverse proxies
+**AI dev:** Codex CLI · Claude · Cursor
 
-## Selected Projects
+---
 
-- **Zabbix + Grafana Stack**  
-  Monitoring stack with PostgreSQL, Docker/Podman, health checks, secrets handling and automation scripts.
+## 🚀 Projects
 
-- **Nextcloud Docker Stack**  
-  Nextcloud deployment with Traefik, PostgreSQL, Redis, HTTPS, backup and health-check scripts.
+**Zabbix + Grafana Stack**
+Monitoring stack with PostgreSQL, containers, health checks, secrets handling and automation scripts.
 
-- **Rootless Podman Automation**  
-  Bash script for configuring rootless Podman, systemd integration and Portainer on Debian/Ubuntu.
+**Nextcloud Docker Stack**
+Nextcloud with Traefik, PostgreSQL, Redis, HTTPS, backups and health checks.
 
-- **Latency Monitor**  
-  Desktop network diagnostics application with React/Electron frontend and Rust backend. Measures latency, jitter and packet loss.
+**Rootless Podman Automation**
+Bash script for rootless Podman, systemd integration and Portainer on Debian/Ubuntu.
 
-- **Windows AMD Registry Boost**  
-  PowerShell script for reversible Windows Registry configuration with backup, restore and system restore point support.
+**Latency Monitor**
+Desktop network diagnostics app — React/Electron frontend, Rust backend. Measures latency, jitter, packet loss.
 
-## Currently Learning
+**Windows AMD Registry Boost**
+Reversible Registry tweaks via PowerShell with backup, restore and restore point support.
 
-Python automation, practical Linux administration, infrastructure monitoring and AI-assisted software development.
+---
+
+## 📚 Currently Learning
+
+Python automation · practical Linux administration · infrastructure monitoring · AI-assisted development.
